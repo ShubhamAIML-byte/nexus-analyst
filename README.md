@@ -4,7 +4,7 @@
 
 **Built with:** Python 3.10+ · LangGraph · Streamlit · MCP · Groq (Llama 3.3 70B) · ChromaDB · MIT License
 
-*Built by Team BrainBots — SIP 2026 Capstone, Department of Information Technology, Indira Gandhi Delhi Technical University for Women.*
+Built by Shubham Banerjee — M.Tech Student, Institute of Engineering & Management (IEM), Salt Lake, Kolkata – 700091. Roll No.: 12025055002009.
 
 Upload a CSV, ask "what's the average revenue by region?", and watch a
 Supervisor Agent delegate to a Data Analyst Agent and a Visualization
