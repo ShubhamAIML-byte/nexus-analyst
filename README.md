@@ -13,7 +13,7 @@ behind a black box.
 
 ## 🚀 Live Demo
 
-👉 **[Open Nexus Analyst](https://nexus-analyst-m3b3ksgokgfckjeiv4jm8u.streamlit.app/)**
+👉 **[Open Nexus Analyst](https://nexus-analyst-jrzjtxdjzhr98oxvntepqe.streamlit.app/)**
 
 ---
 
