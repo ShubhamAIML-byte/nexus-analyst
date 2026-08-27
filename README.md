@@ -11,7 +11,7 @@ Supervisor Agent delegate to a Data Analyst Agent and a Visualization
 Agent in real time — with the full reasoning trail visible, not hidden
 behind a black box.
 
-🔗 **[Live demo](https://nexus-analyst-m3b3ksgokgfckjeiv4jm8u.streamlit.app)**
+
 🔗 **[Live demo]([https://nexus-analyst-m3b3ksgokgfckjeiv4jm8u.streamlit.app](https://nexus-analyst-jrzjtxdjzhr98oxvntepqe.streamlit.app/))**
 
 ---
