@@ -194,14 +194,7 @@ BREVO_SMTP_KEY = "your_brevo_smtp_key"
 
 ---
 
-## 👥 Team BrainBots
 
-| Member | Focus area |
-|---|---|
-| Ritika Tiwari | Multi-agent orchestration (`agent/graph.py`), LangGraph state design, final documentation |
-| Samarpita Das | RAG layer (`rag/ingest.py`, `rag/retrieve.py`), ChromaDB integration |
-| Rishika Asthana | MCP tool server (`mcp_server/server.py`), email integration and debugging |
-| Ritu Popli | Streamlit frontend (`app.py`), deployment, README and repository polish |
 
 ---
 
