@@ -115,13 +115,7 @@ nexus-analyst/
 
 ---
 
-## 🚀 Setup (local)
 
-**1. Clone and enter the project**
-```bash
-git clone https://github.com/rit-ops14/nexus-analyst.git
-cd nexus-analyst
-```
 
 **2. Create a virtual environment**
 ```bash
